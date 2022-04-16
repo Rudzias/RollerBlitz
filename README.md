@@ -8,3 +8,7 @@ Hello this is the file where I am going to write my life story about suffering i
  
  
  1.15version - Updated a wall glitch and made harder last level!
+ 
+ 1.16version - Special Coin Button
+             - Special epic easter eggs
+             - more amazing stuff
